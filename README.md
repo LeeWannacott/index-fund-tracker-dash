@@ -1,3 +1,3 @@
 # index-fund-tracker-dash
 
-App in pythons dash library - for comparing charts of stocks, in this case Vanguard passive index funds.
+Made using pythons dash library - for comparing the charts of stock; in this case Vanguard's passive index funds.
